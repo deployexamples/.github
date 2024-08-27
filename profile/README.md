@@ -30,8 +30,8 @@ Learn how to package your application in a Docker container and deploy it to pla
 ### 4. CI/CD Pipeline Setup
 Set up continuous integration and deployment pipelines using GitHub Actions, Jenkins, or CircleCI.
 
-### 5. Kubernetes Deployment
-Examples of deploying applications to a Kubernetes cluster, including creating deployment YAML files and managing services.
+### 5. Cpanel Deployment
+Examples of deploying applications to a Cpanel using FTP account 
 
 ## Prerequisites
 Basic understanding of the deployment platform you're interested in.
