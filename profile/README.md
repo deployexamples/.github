@@ -8,7 +8,7 @@ Welcome to the Deploy Examples repository! This project contains a collection of
   - Node.js Application Deployment
   - Dockerized Deployment
   - CI/CD Pipeline Setup
-  - Kubernetes Deployment
+  - Cpanel Deployment
 - Prerequisites
 - Getting Started
 - Contributing
